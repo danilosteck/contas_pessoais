@@ -1,0 +1,364 @@
+,descricao
+1, conta gas || comgas/sp-36676497
+2, conta luz || enel distrib. sp-00171192709
+3, conta telefone || bradesco c-telefonica brasil s/
+4, conta telefone || vivo fixo-nac 13 dig-8676664
+5," enc lim credito || encargo - 07,15%"
+6, est rendiment * || poup facil-depos a partir 4/5/12
+7, gasto c credito || NA
+8, iof util limite || NA
+9, pagto cobranca || aluguel
+10, pagto cobranca || ativos sa
+11, parc cred pess || contr 428978949 parc 004/036
+12, parc cred pess || contr 428978949 parc 005/036
+13, parc cred pess || contr 428978949 parc 006/036
+14, parc cred pess || contr 428978949 parc 007/036
+15, parc cred pess || contr 428978949 parc 008/036
+16, parc cred pess || contr 428978949 parc 009/036
+17, parc cred pess || contr 428978949 parc 010/036
+18, parc cred pess || contr 428978949 parc 011/036
+19, parc cred pess || contr 428978949 parc 012/036
+20, parc cred pess || contr 428978949 parc 013/036
+21, parc cred pess || contr 428978949 parc 014/036
+22, parc cred pess || contr 428978949 parc 015/036
+23, parcelam darf || das - mei-83122101
+24, pgto elet trib || bradesco c-receita federal/sp
+25, pgto elet trib || bradesco c-simples nacional
+26, pgto elet trib || internet darf 0211
+27, rendimentos || poup facil-depos a partir 4/5/12
+28, ted-t elet disp || remet.danilo brito steckel
+29, transfe pix || dest: companhia b distribuicao
+30, transfe pix || dest: danilo brito steckelberg
+31, transfe pix || dest: eduardo morais 37997852808
+32, transfe pix || dest: idseg certificadora
+33, transfe pix || dest: maressa andrioli rodrigues
+34, transfe pix || dest: panificadora siapao ltda m
+35, transfe pix || dest: ricardo henrique kersul
+36, transfe pix || dest: usthemp industria e comerc
+37, transfe pix || remt: anderson r araujo
+38, transfe pix || remt: andrea chin lin fu
+39, transfe pix || remt: anne santos ara jo
+40, transfe pix || remt: bruno lemes marques
+41, transfe pix || remt: danilo brito steckelberg
+42, transfe pix || remt: danilo brito steckelberg 0
+43, transfe pix || remt: matheus santinello
+44, transfe pix || remt: rosa maria b steckelberg
+45, visa electron || dark store vila mada
+46, visa electron || grao nosso
+47, visa electron || pao de acucar 0062 s
+48, visa electron || vilangelim eco-po
+49,99* top 08abr 23h14min  || NA
+50,99*marcio kleber oittica  || NA
+51,airbnb pagam*airbnb * hmw  || NA
+52,almanara  || NA
+53,amazon aws servicos brasi  || NA
+54,amazon-marketplace  || NA
+55,amazon.com.br  || NA
+56,amazon.com.br digital ama  || NA
+57,app_qrcode  || NA
+58,appbusger  || NA
+59,appgreenjoy  || NA
+60,apptagburger  || NA
+61,artesanato beira rio  || NA
+62,associacao instituto  || NA
+63,azul we*yyyigrsteckel  || NA
+64,banca antonio dantas  || NA
+65,bar botanico  || NA
+66,bella madalena  || NA
+67,busger *busgervilamad  || NA
+68,cloud xnzcjl  || NA
+69,cobasi augusta s  || NA
+70,cobasi center norte s  || NA
+71,cobasi imigrantes s  || NA
+72,cobasi pet facil cerro  || NA
+73,cobasi reboucas s  || NA
+74,cobasi sumare s  || NA
+75,cobasi tutoia  || NA
+76,compra no débito - 3208drogasil || NA
+77,compra no débito - a j mm || NA
+78,compra no débito - adiqplu*ze solucoes te || NA
+79,compra no débito - agata joias || NA
+80,compra no débito - america paulista || NA
+81,compra no débito - amp retaurante || NA
+82,compra no débito - artex augusta || NA
+83,compra no débito - associacao instituto || NA
+84,compra no débito - atacadao dia a dia || NA
+85,compra no débito - autopass || NA
+86,compra no débito - auttar loja || NA
+87,compra no débito - banca antonio dantas || NA
+88,compra no débito - barracada michele || NA
+89,compra no débito - beat paulista || NA
+90,compra no débito - beco da redonda || NA
+91,compra no débito - bella madalena || NA
+92,compra no débito - bento cafe || NA
+93,compra no débito - bgc smille cafe e lanc || NA
+94,compra no débito - bp - paca polaca || NA
+95,compra no débito - c a modas 735 spe || NA
+96,compra no débito - cafe sa oeste || NA
+97,compra no débito - capital da villa || NA
+98,compra no débito - carrefour conjunto nac || NA
+99,compra no débito - carrefour posto pgs || NA
+100,compra no débito - casa bauducco || NA
+101,compra no débito - chaparral || NA
+102,compra no débito - choperia opcao || NA
+103,compra no débito - chopp brahma || NA
+104,compra no débito - cobasi imigrantes || NA
+105,compra no débito - cobasi reboucas || NA
+106,compra no débito - cobasi teodoro sampaio || NA
+107,compra no débito - com atacadista de frut || NA
+108,compra no débito - dark store vila madale || NA
+109,compra no débito - distribuidora de bebid || NA
+110,compra no débito - doce sabor || NA
+111,compra no débito - domingos antonio pire || NA
+112,compra no débito - domingos antonio pires || NA
+113,compra no débito - drogaria nova dm || NA
+114,compra no débito - drogaria sao paulo || NA
+115,compra no débito - drogasil || NA
+116,compra no débito - ebasico supermercado || NA
+117,compra no débito - eduardo morais || NA
+118,compra no débito - esfiha hayek || NA
+119,compra no débito - estepe bar || NA
+120,compra no débito - farmacia e drogaria || NA
+121,compra no débito - farmacia jk || NA
+122,compra no débito - farmacia santa clara || NA
+123,compra no débito - feira e eventos || NA
+124,compra no débito - feira livre ovos || NA
+125,compra no débito - feirante || NA
+126,compra no débito - grao nosso || NA
+127,compra no débito - guayas || NA
+128,compra no débito - hildebrando pereira || NA
+129,compra no débito - hildebrando pereira do || NA
+130,compra no débito - hosp lab e banco sang || NA
+131,compra no débito - hossam aldahook || NA
+132,compra no débito - jady buffet || NA
+133,compra no débito - jin jin - bela vista - || NA
+134,compra no débito - jjra restaurante e bar || NA
+135,compra no débito - kadalora pizzaria || NA
+136,compra no débito - kalunga fradique couti || NA
+137,compra no débito - kalunga paulista || NA
+138,compra no débito - lanch rainha sumare || NA
+139,compra no débito - laticinios ninoejosy || NA
+140,compra no débito - linah comercio || NA
+141,compra no débito - liv martins fontes || NA
+142,compra no débito - livraria da vila || NA
+143,compra no débito - lojas renner fl || NA
+144,compra no débito - maceio 64 h lanches e || NA
+145,compra no débito - marcos verduras || NA
+146,compra no débito - maria esthela lema le || NA
+147,compra no débito - mega equipamentos || NA
+148,compra no débito - meio dia barriga vazia || NA
+149,compra no débito - mercadinho tend tudo || NA
+150,compra no débito - mercure hotel sao jose || NA
+151,compra no débito - mp *caldodecana || NA
+152,compra no débito - mp *ilhabela || NA
+153,compra no débito - mp *nardin || NA
+154,compra no débito - nayara rodrigues dos s || NA
+155,compra no débito - norberto inacio vieira || NA
+156,compra no débito - pag*adrielesantos || NA
+157,compra no débito - pag*armazemdacerveja || NA
+158,compra no débito - pag*armazemsppinheiro || NA
+159,compra no débito - pag*clubdomalte2 || NA
+160,compra no débito - pag*diskfrutas || NA
+161,compra no débito - pag*elm || NA
+162,compra no débito - pag*feiralivre || NA
+163,compra no débito - pag*hossamaldahook || NA
+164,compra no débito - pag*joseantonioabreum || NA
+165,compra no débito - pag*lavanderiaacquaan || NA
+166,compra no débito - pag*mariaspamonha || NA
+167,compra no débito - pag*pita || NA
+168,compra no débito - pag*rosemaryfatimadel || NA
+169,compra no débito - pag*saiderabrasil || NA
+170,compra no débito - pag*shoppingcidadesao || NA
+171,compra no débito - pag*suelyarvanjo || NA
+172,compra no débito - pag*terracopaulista || NA
+173,compra no débito - pag*torneirabare || NA
+174,compra no débito - panif uniao da vila || NA
+175,compra no débito - panificadora siapao || NA
+176,compra no débito - pao de acucar 0062 sum || NA
+177,compra no débito - pao de acucar 1226 pam || NA
+178,compra no débito - pao de acucar 2349 teo || NA
+179,compra no débito - pao de acucar-0062 || NA
+180,compra no débito - pateo || NA
+181,compra no débito - perto || NA
+182,compra no débito - piracas bar e restaura || NA
+183,compra no débito - posto caiubi || NA
+184,compra no débito - raia || NA
+185,compra no débito - revistaria e convenien || NA
+186,compra no débito - rio vermelho || NA
+187,compra no débito - sabah cozinha arabe || NA
+188,compra no débito - sapataria do futuro e || NA
+189,compra no débito - si senor pinheiros || NA
+190,compra no débito - spba- praia forte || NA
+191,compra no débito - starbucks || NA
+192,compra no débito - supermercado brasi || NA
+193,compra no débito - supermercado brasil || NA
+194,compra no débito - supervi - loja || NA
+195,compra no débito - tam linhas cgh loja a || NA
+196,compra no débito - tank brewpub || NA
+197,compra no débito - taste and see || NA
+198,compra no débito - tbb gestao de restaura || NA
+199,compra no débito - the amazing burger || NA
+200,compra no débito - the blue pub || NA
+201,compra no débito - tim || NA
+202,compra no débito - tok e estok || NA
+203,compra no débito - tonvany mat construcao || NA
+204,compra no débito - vet pet || NA
+205,compra no débito - vilangelim eco-pousada || NA
+206,compra no débito - villa grano || NA
+207,compra no débito - vpe comercio de genero || NA
+208,compra no débito - west market || NA
+209,crédito em conta || NA
+210,débito em conta || NA
+211,dm *megalimited  || NA
+212,ebanx       *spotify  || NA
+213,ebanx spotify  || NA
+214,ebanx*spotify  || NA
+215,econ premiavel bradesco  || NA
+216,editora o globo valor  || NA
+217,estorno - transferência enviada pelo pix - idseg certificadora - 32.222.806/0001-10 - banco inter (0077) agência: 1 conta: 3648974-3 || NA
+218,fechamento da viagem - gc  || NA
+219,feirante  || NA
+220,gol transp a*ylovaa018  || NA
+221,google cloud zgvaee  || NA
+222,hale ia2    *apphaleia  || NA
+223,hildebrando pereira do  || NA
+224,ifood       *ifood  || NA
+225,kadalora pizzaria  || NA
+226,latam airlin*kdkhcx015216  || NA
+227,laticinios ninoejosy  || NA
+228,leroy merlin  || NA
+229,linah comercio  || NA
+230,loggi tecnologia ltda  || NA
+231,metlife  || NA
+232,metlife seguros  || NA
+233,netflix.com  || NA
+234,pag*saiderabrasil  || NA
+235,pag*shoppingeldorado 1/3 1/3 || NA
+236,pag*shoppingeldorado 2/3 2/3 || NA
+237,pag*terracopaulista  || NA
+238,pag*torneirabare  || NA
+239,pagamento de boleto efetuado - ativos s.a. securitizadora de creditos f || NA
+240,pagamento de boleto efetuado - comgas - cia de gas de sao paulo || NA
+241,pagamento de boleto efetuado - das - simples nacional || NA
+242,pagamento de boleto efetuado - fundacao de estudos agrarios luiz de que || NA
+243,pagamento de boleto efetuado - gvt || NA
+244,pagamento de boleto efetuado - pref sao paulo || NA
+245,pagamento de boleto efetuado - quinto andar s i ltda || NA
+246,pagamento de boleto efetuado - receita federal darf || NA
+247,pagamento de boleto efetuado - vivo - gvt || NA
+248,pagto. por deb em c/c  || NA
+249,pao de acucar 0062 sum  || NA
+250,pao de acucar com  || NA
+251,pao de acucar.com   54  || NA
+252,passagens offline - gcu8j  || NA
+253,petlove*order10184873  || NA
+254,pg *buser  || NA
+255,pg *digital innov  || NA
+256,pg *loja virtual larda  || NA
+257,pg *usthemp usthemp  || NA
+258,rappi*ciatc comercio de r  || NA
+259,rappi*rappi brasil interm  || NA
+260,reserva de ipo - nubr33 || NA
+261,saldo anterior  || NA
+262,saldo anterior || NA
+263,saque - aeroporto inter salvad || NA
+264,shopping cidade sao pa  || NA
+265,tarifa - saque || NA
+266,taxi 05mar 01h14min  || NA
+267,tim controle*a8mxb1  || NA
+268,tim controle*abbt1l  || NA
+269,tim controle*ctrbexpaehmm  || NA
+270,tim controle*ctrbexpahkkq  || NA
+271,tim controle*ctrbexpal1wh  || NA
+272,tim*9vnfx0  || NA
+273,tim*9y99is  || NA
+274,tim*a1gq0p  || NA
+275,tim*a3brzz  || NA
+276,tim*a64qo1  || NA
+277,tim*ctrbexpanxl3m  || NA
+278,transferência enviada - danilo brito steckelberg - 030.831.221-01 - easynvest - título corretora de valores sa (0140) conta: 1657529-0 || NA
+279,transferência enviada pelo pix - adelaida garai zonato - 322.024.958-27 - bco santander (brasil) s.a. (0033) agência: 666 conta: 1022003-0 || NA
+280,transferência enviada pelo pix - adilson rodrigues de paula - 879.887.396-20 - ccla vale são patricio ltda agência: 3055 conta: 10114-1 || NA
+281,transferência enviada pelo pix - adyen do brasil ltda - 14.796.606/0001-90 - banco btg pactual s.a. (0208) agência: 30 conta: 437077-1 || NA
+282,transferência enviada pelo pix - amazon.com.br - 15.436.940/0001-03 - ebanx ip ltda. (0383) agência: 1 conta: 1000826894-8 || NA
+283,transferência enviada pelo pix - ana gabriela pereira bianco - 220.933.178-18 - mercado pago ip ltda. (0323) agência: 1 conta: 6471290408-4 || NA
+284,transferência enviada pelo pix - angelita andrioli steckelberg - 149.296.598-76 - nu pagamentos - ip (0260) agência: 1 conta: 1198524-0 || NA
+285,transferência enviada pelo pix - assoc ins chao - 20.813.161/0001-01 - mercado pago ip ltda. (0323) agência: 1 conta: 2243418842-4 || NA
+286,transferência enviada pelo pix - cláudia antunes guedes vale - 300.397.128-00 - itaú unibanco s.a. (0341) agência: 2783 conta: 13150-7 || NA
+287,transferência enviada pelo pix - cláudia guedes antunes vale - 300.397.128-00 - itaú unibanco s.a. (0341) agência: 2783 conta: 13150-7 || NA
+288,transferência enviada pelo pix - companhia b distribuicao - 47.508.411/0001-56 - itaú unibanco s.a. (0341) agência: 910 conta: 14139-9 || NA
+289,transferência enviada pelo pix - cromatica comercial ltda   me - 05.116.506/0001-84 - itaú unibanco s.a. (0341) agência: 354 conta: 62798-6 || NA
+290,transferência enviada pelo pix - dailza pineda - 329.963.518-27 - bco santander (brasil) s.a. (0033) agência: 4338 conta: 1055194-5 || NA
+291,transferência enviada pelo pix - dailza pineda - 329.963.518-27 - nu pagamentos - ip (0260) agência: 1 conta: 4662917-6 || NA
+292,transferência enviada pelo pix - danilo brito steckelberg - 030.831.221-01 - bco bradesco s.a. (0237) agência: 2583 conta: 651-3 || NA
+293,transferência enviada pelo pix - danilo brito steckelberg - 030.831.221-01 - bco bradesco s.a. (0237) agência: 302 conta: 536651-8 || NA
+294,transferência enviada pelo pix - danilo brito steckelberg - 030.831.221-01 - nu pagamentos - ip (0260) agência: 1 conta: 4472039-5 || NA
+295,transferência enviada pelo pix - danilo brito steckelberg 03083122101 - 32.029.833/0001-71 - nu pagamentos - ip (0260) agência: 1 conta: 52374887-1 || NA
+296,transferência enviada pelo pix - decolar  com ltda  - 03.563.689/0002-31 - itaú unibanco s.a. (0341) agência: 46 conta: 93803-1 || NA
+297,transferência enviada pelo pix - eduardo morais 37997852808 - 20.097.297/0001-62 - stone ip s.a. (0197) agência: 1 conta: 440631-0 || NA
+298,transferência enviada pelo pix - evi participacoes ltda - 37.669.661/0001-14 - pagar.me instituicao de pagame agência: 1 conta: 935754-2 || NA
+299,transferência enviada pelo pix - farmacia manipulacao d n l epp - 01.208.269/0001-20 - itaú unibanco s.a. (0341) agência: 740 conta: 39419-2 || NA
+300,transferência enviada pelo pix - fernanda rozenbaum bcheche - 013.866.606-71 - itaú unibanco s.a. (0341) agência: 2926 conta: 30862-4 || NA
+301,transferência enviada pelo pix - futuro refeitorio ltda   epp - 27.558.492/0001-91 - itaú unibanco s.a. (0341) agência: 185 conta: 87777-6 || NA
+302,transferência enviada pelo pix - hirota supermercados   loja 03 - 56.527.062/0001-00 - itaú unibanco s.a. (0341) agência: 47 conta: 3861-7 || NA
+303,transferência enviada pelo pix - idseg certificadora - 32.222.806/0001-10 - banco inter (0077) agência: 1 conta: 3648974-3 || NA
+304,transferência enviada pelo pix - ifood.com agencia de restaurantes online s.a. - 14.380.200/0001-21 - zoop meios de pagamento agência: 1 conta: 847551388-2 || NA
+305,transferência enviada pelo pix - ikaelly santos souza - 109.846.515-60 - picpay (0380) agência: 1 conta: 18758005-7 || NA
+306,transferência enviada pelo pix - ikioi restaurante ltda - 13.318.489/0001-96 - caixa economica federal (0104) agência: 1572 conta: 3000000000000976-6 || NA
+307,"transferência enviada pelo pix - imbassai transportes, viagens e turismo - 12.829.703/0001-06 - bco bradesco s.a. (0237) agência: 6694 conta: 745-5 || NA"
+308,transferência enviada pelo pix - isaias pereira dos santos - 227.621.528-36 - bco santander (brasil) s.a. (0033) agência: 641 conta: 1073255-6 || NA
+309,transferência enviada pelo pix - jonas cavalcanti da silva - 274.487.948-76 - itaú unibanco s.a. (0341) agência: 3010 conta: 7857-8 || NA
+310,transferência enviada pelo pix - jozeilze corsino da silva - 105.845.944-96 - itaú unibanco s.a. (0341) agência: 1662 conta: 23535-5 || NA
+311,transferência enviada pelo pix - labi exames - 27.579.749/0001-91 - pagar.me instituicao de pagame agência: 1 conta: 296569-4 || NA
+312,transferência enviada pelo pix - laerte ribeiro de oliveira - 433.428.548-12 - nu pagamentos - ip (0260) agência: 1 conta: 68335853-5 || NA
+313,transferência enviada pelo pix - le thi thuy trang 23442133840 - 13.089.791/0001-10 - bco santander (brasil) s.a. (0033) agência: 3410 conta: 13006163-6 || NA
+314,transferência enviada pelo pix - luis felipe ticianeli ferreira - 004.241.391-54 - nu pagamentos - ip (0260) agência: 1 conta: 1578076-9 || NA
+315,transferência enviada pelo pix - maressa andrioli rodrigues - 396.766.238-14 - nu pagamentos - ip (0260) agência: 1 conta: 4711890-9 || NA
+316,transferência enviada pelo pix - mariana de oliveira keller - 419.551.828-84 - nu pagamentos - ip (0260) agência: 1 conta: 58131822-7 || NA
+317,transferência enviada pelo pix - meio dia barriga vazia - 64.938.772/0001-51 - itaú unibanco s.a. (0341) agência: 3170 conta: 13149-8 || NA
+318,transferência enviada pelo pix - nucleo digital informatica e servic - 04.951.388/0001-67 - banco inter (0077) agência: 1 conta: 9055275-0 || NA
+319,transferência enviada pelo pix - pagbrasil pagamentos eletronicos ltda - 14.630.124/0001-65 - bco bradesco s.a. (0237) agência: 2276 conta: 22420-0 || NA
+320,transferência enviada pelo pix - pagbrasil pagamentos eletronicos ltda - 14.630.124/0001-65 - bco santander (brasil) s.a. (0033) agência: 2090 conta: 13000894-8 || NA
+321,transferência enviada pelo pix - panificadora siapao ltda me - 61.395.844/0001-73 - itaú unibanco s.a. (0341) agência: 444 conta: 72070-0 || NA
+322,transferência enviada pelo pix - pefisa - 43.180.355/0001-12 - pefisa s.a. - c.f.i. (0174) agência: 1 conta: 9000921-5 || NA
+323,transferência enviada pelo pix - petsupermarket comercio e produtos paraa - 10.864.846/0001-23 - bco santander (brasil) s.a. (0033) agência: 3406 conta: 13000253-7 || NA
+324,transferência enviada pelo pix - rafael dos santos braga                  - 030.762.461-78 - bco bradesco s.a. (0237) agência: 3441 conta: 12486-9 || NA
+325,transferência enviada pelo pix - sandro mendes ribeiro - 888.152.005-25 - bco santander (brasil) s.a. (0033) agência: 2060 conta: 1006444-5 || NA
+326,transferência enviada pelo pix - sympla - 14.512.528/0001-54 - zoop meios de pagamento agência: 1 conta: 260628559-7 || NA
+327,transferência enviada pelo pix - telefonica brasil s a  - 02.558.157/0001-62 - bco santander (brasil) s.a. (0033) agência: 2271 conta: 13068744-7 || NA
+328,transferência enviada pelo pix - vakinha - 22.831.673/0001-26 - itaú unibanco s.a. (0341) agência: 1231 conta: 5690-2 || NA
+329,transferência enviada pelo pix - vitor brito de castro pereira - 331.469.368-01 - banco inter (0077) agência: 1 conta: 17827952-8 || NA
+330,transferência enviada pelo pix - vitor ferreira beer - 409.240.918-43 - nu pagamentos - ip (0260) agência: 1 conta: 66872912-0 || NA
+331,transferência enviada pelo pix - vivalda santos alves - 001.180.685-04 - mercado pago ip ltda. (0323) agência: 1 conta: 5011807269-0 || NA
+332,transferência enviada pelo pix - west market comercio de produtos alimenticios ltda - 45.426.302/0001-64 - stone ip s.a. (0197) agência: 1 conta: 584959-1 || NA
+333,transferência enviada pelo pix - yapay pagamentos online ltda - 14.338.304/0001-78 - bco bs2 s.a. (0218) agência: 1 conta: 884722-3 || NA
+334,transferência recebida - adriana lippi - 337.778.718-69 - nu pagamentos - ip (0260) agência: 1 conta: 69632614-1 || NA
+335,transferência recebida - adriana lippi - 337.778.718-69 - nu pagamentos s.a. - instituição de pagamento (0260) agência: 1 conta: 69632614-1 || NA
+336,transferência recebida - adriana lippi 33777871869 - 24.220.032/0001-60 - nu pagamentos - ip (0260) agência: 1 conta: 98808569-0 || NA
+337,transferência recebida - adriana lippi 33777871869 - 24.220.032/0001-60 - nu pagamentos s.a. - instituição de pagamento (0260) agência: 1 conta: 98808569-0 || NA
+338,transferência recebida - danilo brito steckelberg - 030.831.221-01 - nu pagamentos - ip (0260) agência: 1 conta: 4472039-5 || NA
+339,transferência recebida - danilo brito steckelberg 03083122101 - 32.029.833/0001-71 - nu pagamentos - ip (0260) agência: 1 conta: 52374887-1 || NA
+340,transferência recebida - danilo brito steckelberg 03083122101 - 32.029.833/0001-71 - nu pagamentos s.a. - instituição de pagamento (0260) agência: 1 conta: 52374887-1 || NA
+341,transferência recebida - danilo brito steckelberg 03083122101 - 32.029.833/0001-71 - nu pagamentos s.a. (0260) agência: 1 conta: 52374887-1 || NA
+342,transferência recebida - evi participacoes ltda - 37.669.661/0001-14 - bco do brasil s.a. (0001) agência: 4306 conta: 16375-9 || NA
+343,transferência recebida - ricardo henrique kersul - 105.088.226-10 - nu pagamentos - ip (0260) agência: 1 conta: 1569563-3 || NA
+344,transferência recebida pelo pix - anderson rafael s teixeira - 323.921.878-00 - itaú unibanco s.a. (0341) agência: 7319 conta: 631-3 || NA
+345,transferência recebida pelo pix - ceddro solucoes digitais ltda - 18.383.971/0001-23 - itaú unibanco s.a. (0341) agência: 745 conta: 6531-8 || NA
+346,transferência recebida pelo pix - danilo brito steckelberg - 030.831.221-01 - bco bradesco s.a. (0237) agência: 302 conta: 536651-8 || NA
+347,transferência recebida pelo pix - evi participacoes ltda. - 37.669.661/0001-14 - itaú unibanco s.a. (0341) agência: 7122 conta: 13861-8 || NA
+348,transferência recebida pelo pix - uotz inteligencia de mercado - 15.329.160/0001-56 - itaú unibanco s.a. (0341) agência: 185 conta: 17738-3 || NA
+349,turbi  || NA
+350,turbi fechamento da viage  || NA
+351,turbi multa jvb3727007 -  || NA
+352,turbi passagens offline -  || NA
+353,uber        *trip  || NA
+354,uber   *uber   *trip  || NA
+355,uber *trip help.uber.com  || NA
+356,uber* trip  || NA
+357,west market  || NA
+358,wix com 96983  || NA
+359,wix com 97240  || NA
+360,www*cobasi  || NA
+361,www*ubueditora  || NA
+362,xfer- turbi  || NA
+363,zp          *ifood  || NA

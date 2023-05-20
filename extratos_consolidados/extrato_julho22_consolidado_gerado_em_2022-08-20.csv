@@ -1,0 +1,137 @@
+,data,codigo,id,desc1,desc2,valor_brl,saldo,tipo,descricao,categoria,Compartilhado,,,,
+1,7/2/2022,62c041bf-3daf-4813-a374-0782c785f7be,NA,compra no débito - panificadora siapao,NA,-26.8,NA,conta_nubank_pf,compra no débito - panificadora siapao || NA,Alimentacao/Padaria || s,s,26.8,Alimentos,Padaria,2
+2,7/3/2022,62c1b645-2216-4daf-ba6b-de402961932a,NA,compra no débito - hildebrando pereira,NA,-17,NA,conta_nubank_pf,compra no débito - hildebrando pereira || NA,Compras/feira || s,s,17,Alimentos,Feira,3
+3,7/3/2022,62c1b6f7-7f35-4753-8897-772256d84b39,NA,compra no débito - laticinios ninoejosy,NA,-33,NA,conta_nubank_pf,compra no débito - laticinios ninoejosy || NA,Compras/feira || s,s,33,Alimentos,Feira,3
+4,7/3/2022,62c1b72a-d6ce-4d5d-a44e-f96a1a9a7f8e,NA,compra no débito - linah comercio,NA,-44,NA,conta_nubank_pf,compra no débito - linah comercio || NA,Compras/feira || s,s,44,Alimentos,Feira,3
+5,7/3/2022,62c1b7aa-5c35-4e72-8a65-6da65db051e3,NA,compra no débito - antonio jorge costa,NA,-31,NA,conta_nubank_pf,compra no débito - antonio jorge costa || NA,Compras/feira || s,s,31,Alimentos,Feira,3
+6,7/3/2022,62c1b828-6f9d-432f-af15-dd19985ad341,NA,compra no débito - domingos antonio pire,NA,-10,NA,conta_nubank_pf,compra no débito - domingos antonio pire || NA,Compras/feira || s,s,10,Alimentos,Feira,3
+7,7/3/2022,62c1b8b9-3261-4638-96fb-3be059c3f731,NA,compra no débito - feira livre ovos,NA,-6,NA,conta_nubank_pf,compra no débito - feira livre ovos || NA,Compras/feira || s,s,6,Alimentos,Feira,3
+8,7/4/2022,NA,NA,tim*9vnfx0 ,NA,-69.99,NA,cartao_brasdesco,tim*9vnfx0  || NA,TV Internet Telefone || n,n,,,,
+9,7/4/2022,6615094,6, iof util limite,NA,-16.24,-4393.01,conta_bradesco, iof util limite || NA,imposto divida taxas/Outros || n,n,,,,
+10,7/5/2022,1314424,7, transfe pix,remt: danilo brito steckelberg,5000,606.99,conta_bradesco, transfe pix || remt: danilo brito steckelberg,Auto transferencia || n,n,,,,
+11,7/5/2022,6615094,9, enc lim credito,"encargo - 07,15%",-136.19,470.8,conta_bradesco," enc lim credito || encargo - 07,15%",imposto divida taxas/Outros || n,n,,,,
+12,7/5/2022,62c46311-0fb1-42e3-92b2-ec3352f5a808,NA,transferência recebida - danilo brito steckelberg 03083122101 - 32.029.833/0001-71 - nu pagamentos - ip (0260) agência: 1 conta: 52374887-1,NA,13982.02,NA,conta_nubank_pf,transferência recebida - danilo brito steckelberg 03083122101 - 32.029.833/0001-71 - nu pagamentos - ip (0260) agência: 1 conta: 52374887-1 || NA,Auto transferencia || n,n,,,,
+13,7/5/2022,62c4634b-90b4-4e51-bfcd-32c029e79e2e,NA,transferência enviada pelo pix - cláudia guedes antunes vale - 300.397.128-00 - itaú unibanco s.a. (0341) agência: 2783 conta: 13150-7,NA,-180,NA,conta_nubank_pf,transferência enviada pelo pix - cláudia guedes antunes vale - 300.397.128-00 - itaú unibanco s.a. (0341) agência: 2783 conta: 13150-7 || NA,Moradia/outros || s,s,180,Casa,Limpeza,5
+14,7/5/2022,62c46370-8d5e-42c5-8222-8be601eca1bb,NA,transferência enviada pelo pix - danilo brito steckelberg - 030.831.221-01 - bco bradesco s.a. (0237) agência: 302 conta: 536651-8,NA,-5000,NA,conta_nubank_pf,transferência enviada pelo pix - danilo brito steckelberg - 030.831.221-01 - bco bradesco s.a. (0237) agência: 302 conta: 536651-8 || NA,Auto transferencia || n,n,,,,
+15,7/6/2022,3667649,11, conta gas,comgas/sp-36676497,-39.04,431.76,conta_bradesco, conta gas || comgas/sp-36676497,Moradia/outros || s,s,39.04,Casa,Gas,6
+16,7/6/2022,62c46608-e371-49af-b355-3ffb133c1207,NA,pagamento de boleto efetuado - quinto andar s i ltda,NA,-3983.58,NA,conta_nubank_pf,pagamento de boleto efetuado - quinto andar s i ltda || NA,Moradia/aluguel || s,s,3983.58,Casa,Aluguel,6
+17,7/6/2022,62c57f28-03f5-45eb-8f9c-afd0b94abd57,NA,compra no débito - drogaria sao paulo,NA,-42.99,NA,conta_nubank_pf,compra no débito - drogaria sao paulo || NA,Saúde || n,n,,,,
+18,7/6/2022,62c5b8c5-8fdf-403d-a0e5-8a490a709153,NA,compra no débito - lanchonete cuca real,NA,-20,NA,conta_nubank_pf,compra no débito - lanchonete cuca real || NA,Alimentacao/Restaurante || n,n,,,,
+19,7/6/2022,pao de acucar,NA,supermercado,NA,-148.59,NA,cartao_flash,supermercado || NA,Compras/supermercado || s,s,148.59,Alimentos,Supermercado,6
+20,7/8/2022,NA,NA,zp          *ifood ,NA,-3.99,NA,cartao_brasdesco,zp          *ifood  || NA,Alimentacao/Restaurante || s,s,3.99,Alimentos,ifood,8
+21,7/8/2022,west market,NA,supermercado,NA,-10,NA,cartao_flash,supermercado || NA,Compras/supermercado || s,s,10,Alimentos,Supermercado,8
+22,7/9/2022,NA,NA,ebw*spotify ,NA,-24.9,NA,cartao_brasdesco,ebw*spotify  || NA,Moradia/outros || s,s,24.9,Casa,Spotify,9
+23,7/10/2022,NA,NA,metlife seguros ,NA,-246.95,NA,cartao_brasdesco,metlife seguros  || NA,Saúde || n,n,,,,
+24,7/10/2022,NA,NA,metlife ,NA,-269.16,NA,cartao_brasdesco,metlife  || NA,Saúde || n,n,,,,
+25,7/10/2022,NA,NA,ec*clickbus ,NA,-476.14,NA,cartao_brasdesco,ec*clickbus  || NA,Viagem || n,n,,,,
+26,7/10/2022,NA,NA,tim*ctrbexpaslj8j ,NA,-75.99,NA,cartao_brasdesco,tim*ctrbexpaslj8j  || NA,TV Internet Telefone || n,n,,,,
+27,7/10/2022,62cafceb-7dc4-495f-8065-4714ede1e605,NA,compra no débito - hildebrando pereira,NA,-19.5,NA,conta_nubank_pf,compra no débito - hildebrando pereira || NA,Compras/feira || s,s,19.5,Alimentos,Feira,10
+28,7/10/2022,62cafd64-4a8d-4c9e-bc99-9bbb42cdbfa1,NA,compra no débito - pag*feiralivre,NA,-8,NA,conta_nubank_pf,compra no débito - pag*feiralivre || NA,Compras/feira || s,s,8,Alimentos,Feira,10
+29,7/10/2022,62cafe03-bd67-4c36-9f25-e97469933eaf,NA,compra no débito - laticinios ninoejosy,NA,-22,NA,conta_nubank_pf,compra no débito - laticinios ninoejosy || NA,Compras/feira || s,s,22,Alimentos,Feira,10
+30,7/10/2022,62cafe82-d981-4b1d-aa89-228a73f36d1e,NA,compra no débito - marcos verduras,NA,-24,NA,conta_nubank_pf,compra no débito - marcos verduras || NA,Compras/feira || s,s,24,Alimentos,Feira,10
+31,7/10/2022,62cb54e7-2f26-47a8-8a36-d4d48c0d703a,NA,compra no débito - livraria da travessa,NA,-59.9,NA,conta_nubank_pf,compra no débito - livraria da travessa || NA,Educacao || n,n,,,,
+32,7/10/2022,62cb5a17-a5e7-44c3-93aa-601636826a50,NA,compra no débito - dia brasil lj,NA,-8.68,NA,conta_nubank_pf,compra no débito - dia brasil lj || NA,Compras/supermercado || s,s,8.68,Alimentos,Supermercado,10
+33,7/10/2022,62cb8ae8-4aba-4da9-8a1e-992fa8461e6e,NA,transferência enviada pelo pix - paymee brasil servicos de pagamentos - 28.683.892/0001-91 - bco bs2 s.a. (0218) agência: 1 conta: 84132-3,NA,-487.94,NA,conta_nubank_pf,transferência enviada pelo pix - paymee brasil servicos de pagamentos - 28.683.892/0001-91 - bco bs2 s.a. (0218) agência: 1 conta: 84132-3 || NA,Viagem || n,n,,,,
+34,7/11/2022,NA,NA,uber *trip help.uber.com ,NA,-7.52,NA,cartao_brasdesco,uber *trip help.uber.com  || NA,Transporte || n,n,,,,
+35,7/11/2022,NA,NA,amazon-marketplace 1/5 1/5,NA,-425.05,NA,cartao_brasdesco,amazon-marketplace 1/5 1/5 || NA,Roupas vestuario || n,n,,,,
+36,7/11/2022,9990192,13, parc cred pess,contr 428978949 parc 016/036,-422.4,9.36,conta_bradesco, parc cred pess || contr 428978949 parc 016/036,imposto divida taxas/Outros || n,n,,,,
+37,7/11/2022,7119270,15, conta luz,enel distrib. sp-00171192709,-119.4,-110.04,conta_bradesco, conta luz || enel distrib. sp-00171192709,Moradia/outros || s,s,119.4,Casa,Energia,11
+38,7/11/2022,62c9da31-0716-465d-9510-2212a5d403b4,NA,pagamento de boleto efetuado - ativos s.a. securitizadora de creditos f,NA,-307.58,NA,conta_nubank_pf,pagamento de boleto efetuado - ativos s.a. securitizadora de creditos f || NA,imposto divida taxas/Outros || n,n,,,,
+39,7/12/2022,NA,NA,uber* trip ,NA,-7.45,NA,cartao_brasdesco,uber* trip  || NA,Transporte || n,n,,,,
+40,7/12/2022,NA,NA,econ premiavel bradesco ,NA,-32.7,NA,cartao_brasdesco,econ premiavel bradesco  || NA,Investimentos || n,n,,,,
+41,7/12/2022,62ce120b-6d68-4431-902c-7900652ff5a5,NA,transferência recebida - adriana lippi - 337.778.718-69 - nu pagamentos - ip (0260) agência: 1 conta: 69632614-1,NA,3716.72,NA,conta_nubank_pf,transferência recebida - adriana lippi - 337.778.718-69 - nu pagamentos - ip (0260) agência: 1 conta: 69632614-1 || NA,Entradas/Outros || n,n,,,,
+42,7/12/2022,sia pão,NA,padaria,NA,-22.71,NA,cartao_flash,padaria || NA,Alimentacao/Padaria || s,s,22.71,Alimentos,Padaria,12
+43,7/12/2022,west market,NA,supermercado,NA,-10.99,NA,cartao_flash,supermercado || NA,Compras/supermercado || s,s,10.99,Alimentos,Supermercado,12
+44,7/13/2022,NA,NA,ec*eviparticipacoesltd 1/2 1/2,NA,-5.38,NA,cartao_brasdesco,ec*eviparticipacoesltd 1/2 1/2 || NA,Saúde || n,n,,,,
+45,7/13/2022,NA,NA,uber* trip ,NA,-22.16,NA,cartao_brasdesco,uber* trip  || NA,Transporte || n,n,,,,
+46,7/13/2022,62cf7119-5c6f-47d4-8482-7864824de9e2,NA,compra no débito - auto posto de servicos,NA,-50,NA,conta_nubank_pf,compra no débito - auto posto de servicos || NA,Transporte || n,n,,,,
+47,7/13/2022,62cf7978-8f8a-47a2-8eee-cb28461f1155,NA,compra no débito - st etienne city padari,NA,-72.38,NA,conta_nubank_pf,compra no débito - st etienne city padari || NA,Alimentacao/Padaria || s,s,72.38,Alimentos,Padaria,13
+48,7/13/2022,62cf79f7-72c5-4c8f-a94b-639cb5c67780,NA,compra no débito - raia,NA,-18.89,NA,conta_nubank_pf,compra no débito - raia || NA,Saúde || n,n,,,,
+49,7/14/2022,NA,NA,cobasi teodoro sampaio ,NA,-140.83,NA,cartao_brasdesco,cobasi teodoro sampaio  || NA,Pet || n,n,,,,
+50,7/15/2022,NA,NA,econ premiavel bradesco ,NA,-30,NA,cartao_brasdesco,econ premiavel bradesco  || NA,Investimentos || n,n,,,,
+51,7/15/2022,NA,NA,uber   *uber   *trip ,NA,-32.91,NA,cartao_brasdesco,uber   *uber   *trip  || NA,Transporte || n,n,,,,
+52,7/15/2022,8782401,17, conta telefone,vivo fixo-nac 13 dig-7824012,-105.41,-215.45,conta_bradesco, conta telefone || vivo fixo-nac 13 dig-7824012,TV Internet Telefone || s,s,105.41,Casa,Internet,15
+53,7/15/2022,62d1dcf7-327e-4abc-8c00-1d4592ec68b7,NA,compra no débito - panificadora siapao,NA,-62.44,NA,conta_nubank_pf,compra no débito - panificadora siapao || NA,Alimentacao/Padaria || s,s,62.44,Alimentos,Padaria,15
+54,7/16/2022,NA,NA,uber   *uber   *trip ,NA,-65.99,NA,cartao_brasdesco,uber   *uber   *trip  || NA,Transporte || n,n,,,,
+55,7/16/2022,NA,NA,opa solucoes tecnolog ,NA,-28,NA,cartao_brasdesco,opa solucoes tecnolog  || NA,Outros || n,n,,,,
+56,7/16/2022,62d2300b-1d5d-4ca4-89d9-8bacd451a5e8,NA,compra no débito - rodosnack coral lanch,NA,-13.5,NA,conta_nubank_pf,compra no débito - rodosnack coral lanch || NA,Alimentacao/Restaurante || n,n,,,,
+57,7/16/2022,62d2a178-8ddb-493e-ac14-933f662808c4,NA,compra no débito - restaurante menegon,NA,-23,NA,conta_nubank_pf,compra no débito - restaurante menegon || NA,Alimentacao/Restaurante || n,n,,,,
+58,7/17/2022,NA,NA,saldo anterior ,NA,-1999.4,NA,cartao_brasdesco,saldo anterior  || NA,gasto c credito || NA,A,,,,
+59,7/17/2022,NA,NA,saldo anterior ,NA,-1671.87,NA,cartao_brasdesco,saldo anterior  || NA,gasto c credito || NA,A,,,,
+60,7/17/2022,62d48a02-c86b-490a-a104-0728d49789a0,NA,compra no débito - 3208drogasil,NA,-35.32,NA,conta_nubank_pf,compra no débito - 3208drogasil || NA,Roupas vestuario || n,n,,,,
+61,7/18/2022,NA,NA,pagto. por deb em c/c ,NA,1671.87,NA,cartao_brasdesco,pagto. por deb em c/c  || NA,gasto c credito || NA,A,,,,
+62,7/18/2022,3990199,19, gasto c credito,NA,-1671.87,-1887.32,conta_bradesco, gasto c credito || NA,gasto c credito || NA,A,,,,
+63,7/19/2022,NA,NA,pagto. por deb em c/c ,NA,1999.4,NA,cartao_brasdesco,pagto. por deb em c/c  || NA,gasto c credito || NA,A,,,,
+64,7/19/2022,NA,NA,turbi ,NA,-1,NA,cartao_brasdesco,turbi  || NA,Transporte || n,n,,,,
+65,7/19/2022,NA,NA,uber *trip help.uber.com ,NA,-7.44,NA,cartao_brasdesco,uber *trip help.uber.com  || NA,Transporte || n,n,,,,
+66,7/19/2022,NA,NA,ec*eviparticipacoesltd 1/2 1/2,NA,-53.77,NA,cartao_brasdesco,ec*eviparticipacoesltd 1/2 1/2 || NA,Roupas vestuario || n,n,,,,
+67,7/19/2022,NA,NA,pb*evi brasil ,NA,-99.9,NA,cartao_brasdesco,pb*evi brasil  || NA,Roupas vestuario || n,n,,,,
+68,7/19/2022,62d6c8cd-3fe1-4c8f-83db-9182e5366702,NA,transferência enviada pelo pix - coord adm financeira caf - 46.377.222/0003-90 - bco do brasil s.a. (0001) agência: 1897 conta: 1300001-2,NA,-78.97,NA,conta_nubank_pf,transferência enviada pelo pix - coord adm financeira caf - 46.377.222/0003-90 - bco do brasil s.a. (0001) agência: 1897 conta: 1300001-2 || NA,imposto divida taxas/MEI || n,n,,,,
+69,7/19/2022,62d7338b-f000-4c5f-b0e9-e2fbf3d6ca0d,NA,compra no débito - express supermercado,NA,-55.92,NA,conta_nubank_pf,compra no débito - express supermercado || NA,Compras/supermercado || n,n,,,,
+70,7/19/2022,62d7628c-ba1a-438c-91ac-336de566f3ef,NA,transferência enviada pelo pix - cláudia guedes antunes vale - 300.397.128-00 - itaú unibanco s.a. (0341) agência: 2783 conta: 13150-7,NA,-180,NA,conta_nubank_pf,transferência enviada pelo pix - cláudia guedes antunes vale - 300.397.128-00 - itaú unibanco s.a. (0341) agência: 2783 conta: 13150-7 || NA,Moradia/outros || s,s,180,Casa,Limpeza,19
+71,7/20/2022,NA,NA,turbi ,NA,-54.5,NA,cartao_brasdesco,turbi  || NA,Transporte || n,n,,,,
+72,7/20/2022,NA,NA,turbi ,NA,-2.2,NA,cartao_brasdesco,turbi  || NA,Transporte || n,n,,,,
+73,7/21/2022,1224032,20, transfe pix,remt: danilo brito steckelberg,1900,12.68,conta_bradesco, transfe pix || remt: danilo brito steckelberg,Auto transferencia || n,n,,,,
+74,7/21/2022,62d957a1-1060-488a-8535-8d7c7ecece9a,NA,pagamento de boleto efetuado - darf,NA,-25,NA,conta_nubank_pf,pagamento de boleto efetuado - darf || NA,imposto divida taxas/MEI || n,n,,,,
+75,7/21/2022,62d95837-a1fa-4558-a8a4-68c8fa11052e,NA,pagamento de boleto efetuado - darf,NA,-25,NA,conta_nubank_pf,pagamento de boleto efetuado - darf || NA,imposto divida taxas/MEI || n,n,,,,
+76,7/21/2022,62d95848-4341-4bdd-bdf1-ccff53d7ff34,NA,pagamento de boleto efetuado - darf,NA,-25,NA,conta_nubank_pf,pagamento de boleto efetuado - darf || NA,imposto divida taxas/MEI || n,n,,,,
+77,7/21/2022,62d95857-d011-4866-93ce-b4011ccc0fdb,NA,pagamento de boleto efetuado - darf,NA,-25,NA,conta_nubank_pf,pagamento de boleto efetuado - darf || NA,imposto divida taxas/MEI || n,n,,,,
+78,7/21/2022,62d9586a-93b3-4797-90d7-37287e2dcb36,NA,pagamento de boleto efetuado - darf,NA,-25,NA,conta_nubank_pf,pagamento de boleto efetuado - darf || NA,imposto divida taxas/MEI || n,n,,,,
+79,7/21/2022,62d95878-32ba-42dd-8852-20c799e9c386,NA,pagamento de boleto efetuado - darf,NA,-25.5,NA,conta_nubank_pf,pagamento de boleto efetuado - darf || NA,imposto divida taxas/MEI || n,n,,,,
+80,7/21/2022,62d95887-ecf1-4841-8c6f-058baa9ca854,NA,pagamento de boleto efetuado - darf,NA,-25,NA,conta_nubank_pf,pagamento de boleto efetuado - darf || NA,imposto divida taxas/MEI || n,n,,,,
+81,7/21/2022,62d95898-1613-4e94-9895-f56027b4911e,NA,pagamento de boleto efetuado - darf,NA,-25,NA,conta_nubank_pf,pagamento de boleto efetuado - darf || NA,imposto divida taxas/MEI || n,n,,,,
+82,7/21/2022,62d958a4-1ccc-470d-9845-05f5c9afbb3a,NA,pagamento de boleto efetuado - darf,NA,-25,NA,conta_nubank_pf,pagamento de boleto efetuado - darf || NA,imposto divida taxas/MEI || n,n,,,,
+83,7/21/2022,62d958b0-32e0-45bd-8596-96fb9808c22c,NA,pagamento de boleto efetuado - darf,NA,-25,NA,conta_nubank_pf,pagamento de boleto efetuado - darf || NA,imposto divida taxas/MEI || n,n,,,,
+84,7/21/2022,62d958be-adaa-42fe-89ff-d60615405c0f,NA,pagamento de boleto efetuado - darf,NA,-36,NA,conta_nubank_pf,pagamento de boleto efetuado - darf || NA,imposto divida taxas/MEI || n,n,,,,
+85,7/21/2022,62d958ca-a17c-40db-aff3-6866a5299c01,NA,pagamento de boleto efetuado - darf,NA,-25,NA,conta_nubank_pf,pagamento de boleto efetuado - darf || NA,imposto divida taxas/MEI || n,n,,,,
+86,7/21/2022,62d958d6-c941-4a10-8ec9-f85bf58e3536,NA,pagamento de boleto efetuado - darf,NA,-25,NA,conta_nubank_pf,pagamento de boleto efetuado - darf || NA,imposto divida taxas/MEI || n,n,,,,
+87,7/21/2022,62d958e5-93e2-4745-aec4-cd33743dd0ef,NA,pagamento de boleto efetuado - darf,NA,-25,NA,conta_nubank_pf,pagamento de boleto efetuado - darf || NA,imposto divida taxas/MEI || n,n,,,,
+88,7/21/2022,62d958f2-d440-42d7-a114-15d60c96afdf,NA,pagamento de boleto efetuado - darf,NA,-27,NA,conta_nubank_pf,pagamento de boleto efetuado - darf || NA,imposto divida taxas/MEI || n,n,,,,
+89,7/21/2022,62d95903-6189-4d1d-b598-d284db4de765,NA,pagamento de boleto efetuado - darf,NA,-25,NA,conta_nubank_pf,pagamento de boleto efetuado - darf || NA,imposto divida taxas/MEI || n,n,,,,
+90,7/21/2022,62d9590f-5f7b-4b90-9516-bb3de384ce73,NA,pagamento de boleto efetuado - darf,NA,-25,NA,conta_nubank_pf,pagamento de boleto efetuado - darf || NA,imposto divida taxas/MEI || n,n,,,,
+91,7/21/2022,62d9591b-3392-40d9-aa30-acb4e86e95f2,NA,pagamento de boleto efetuado - darf,NA,-25,NA,conta_nubank_pf,pagamento de boleto efetuado - darf || NA,imposto divida taxas/MEI || n,n,,,,
+92,7/21/2022,62d95928-7171-4320-8e6e-f6244db53e92,NA,pagamento de boleto efetuado - darf,NA,-25,NA,conta_nubank_pf,pagamento de boleto efetuado - darf || NA,imposto divida taxas/MEI || n,n,,,,
+93,7/21/2022,62d95936-9aa7-46ec-b13b-2dc58add36e6,NA,pagamento de boleto efetuado - darf,NA,-25,NA,conta_nubank_pf,pagamento de boleto efetuado - darf || NA,imposto divida taxas/MEI || n,n,,,,
+94,7/21/2022,62d95949-6767-48e5-a144-a3063360ad21,NA,pagamento de boleto efetuado - darf,NA,-25,NA,conta_nubank_pf,pagamento de boleto efetuado - darf || NA,imposto divida taxas/MEI || n,n,,,,
+95,7/21/2022,62d9595a-f384-419d-92ae-9ed62a7409e9,NA,pagamento de boleto efetuado - darf,NA,-25,NA,conta_nubank_pf,pagamento de boleto efetuado - darf || NA,imposto divida taxas/MEI || n,n,,,,
+96,7/21/2022,62d95968-cdc0-4655-a235-1a615f1e0ec2,NA,pagamento de boleto efetuado - darf,NA,-25,NA,conta_nubank_pf,pagamento de boleto efetuado - darf || NA,imposto divida taxas/MEI || n,n,,,,
+97,7/21/2022,62d95aef-e81b-44d0-bc04-7e37dfa02676,NA,pagamento de boleto efetuado - das - simples nacional,NA,-319.12,NA,conta_nubank_pf,pagamento de boleto efetuado - das - simples nacional || NA,imposto divida taxas/MEI || n,n,,,,
+98,7/21/2022,62d96d54-f6d0-4319-9747-5636eb8c7660,NA,pagamento de boleto efetuado - darf,NA,-55.48,NA,conta_nubank_pf,pagamento de boleto efetuado - darf || NA,imposto divida taxas/MEI || n,n,,,,
+99,7/21/2022,62d96d6f-1606-4501-9212-a5453150292f,NA,pagamento de boleto efetuado - darf,NA,-566,NA,conta_nubank_pf,pagamento de boleto efetuado - darf || NA,imposto divida taxas/MEI || n,n,,,,
+100,7/21/2022,62d96f91-0b65-4c3b-919a-33232ee48aed,NA,transferência enviada pelo pix - danilo brito steckelberg - 030.831.221-01 - bco bradesco s.a. (0237) agência: 302 conta: 536651-8,NA,-1900,NA,conta_nubank_pf,transferência enviada pelo pix - danilo brito steckelberg - 030.831.221-01 - bco bradesco s.a. (0237) agência: 302 conta: 536651-8 || NA,Auto transferencia || n,n,,,,
+101,7/21/2022,62d984da-e4c0-4c5f-b7db-7150ec162af7,NA,pagamento de boleto efetuado - pref sao paulo,NA,-341.34,NA,conta_nubank_pf,pagamento de boleto efetuado - pref sao paulo || NA,imposto divida taxas/MEI || n,n,,,,
+102,7/21/2022,62d98514-ceaa-428e-933f-ac684c8eda53,NA,pagamento de boleto efetuado - pref sao paulo,NA,-304.3,NA,conta_nubank_pf,pagamento de boleto efetuado - pref sao paulo || NA,imposto divida taxas/MEI || n,n,,,,
+103,7/21/2022,62d9854e-97a6-42b2-9103-2aa91caf4d69,NA,pagamento de boleto efetuado - pref sao paulo,NA,-265.16,NA,conta_nubank_pf,pagamento de boleto efetuado - pref sao paulo || NA,imposto divida taxas/MEI || n,n,,,,
+104,7/21/2022,62d98589-644a-4e2a-8bc2-a6e1f9db9035,NA,pagamento de boleto efetuado - pref sao paulo,NA,-206.98,NA,conta_nubank_pf,pagamento de boleto efetuado - pref sao paulo || NA,imposto divida taxas/MEI || n,n,,,,
+105,7/23/2022,62dc6f85-ce62-431d-8c53-38262295c247,NA,compra no débito - fogazzaria paulista,NA,-46.5,NA,conta_nubank_pf,compra no débito - fogazzaria paulista || NA,Alimentacao/Restaurante || n,n,,,,
+106,7/24/2022,NA,NA,turbi ,NA,-10,NA,cartao_brasdesco,turbi  || NA,Transporte || n,n,,,,
+107,7/24/2022,62dd9819-ebd8-4468-b5db-1b79aede8584,NA,transferência recebida pelo pix - rosa maria b steckelberg - 423.653.501-78 - bco do brasil s.a. (0001) agência: 668 conta: 5408-9,NA,1000,NA,conta_nubank_pf,transferência recebida pelo pix - rosa maria b steckelberg - 423.653.501-78 - bco do brasil s.a. (0001) agência: 668 conta: 5408-9 || NA,Entradas/Outros || n,n,,,,
+108,7/24/2022,62ddf18f-9ccb-4ec8-8edb-dbbb787b0bff,NA,compra no débito - berlinf*restaurante,NA,-31,NA,conta_nubank_pf,compra no débito - berlinf*restaurante || NA,Alimentacao/Restaurante || s,s,31,Alimentos,Restaurante,24
+109,7/25/2022,NA,NA,uber *trip help.uber.com ,NA,-7.43,NA,cartao_brasdesco,uber *trip help.uber.com  || NA,Transporte || n,n,,,,
+110,7/25/2022,NA,NA,turbi ,NA,-91.72,NA,cartao_brasdesco,turbi  || NA,Transporte || n,n,,,,
+111,7/25/2022,NA,NA,uber   *uber   *trip ,NA,-29.92,NA,cartao_brasdesco,uber   *uber   *trip  || NA,Transporte || n,n,,,,
+112,7/25/2022,62de5706-d1e8-4b9f-8f00-bf96b79ecf85,NA,compra no débito - rodosnack coral lanch,NA,-31.5,NA,conta_nubank_pf,compra no débito - rodosnack coral lanch || NA,Alimentacao/Restaurante || n,n,,,,
+113,7/25/2022,62deb55b-d2e7-4695-886c-e9f1b513a598,NA,compra no débito - meio dia barriga vazia,NA,-66.28,NA,conta_nubank_pf,compra no débito - meio dia barriga vazia || NA,Bar Lazer || s,s,66.28,Alimentos,Restaurante,25
+114,7/25/2022,62df39c8-fc2d-4bab-ac7f-db878f9151b7,NA,compra no débito - panificadora siapao,NA,-18.29,NA,conta_nubank_pf,compra no débito - panificadora siapao || NA,Alimentacao/Padaria || s,s,18.29,Alimentos,Padaria,25
+115,7/26/2022,NA,NA,amazon.com.br digital ama ,NA,-1.99,NA,cartao_brasdesco,amazon.com.br digital ama  || NA,Servicos Web || n,n,,,,
+116,7/26/2022,NA,NA,netflix.com ,NA,-32.9,NA,cartao_brasdesco,netflix.com  || NA,TV Internet Telefone || n,n,,,,
+117,7/26/2022,NA,NA,uber   *uber   *trip ,NA,-18.21,NA,cartao_brasdesco,uber   *uber   *trip  || NA,Transporte || n,n,,,,
+118,7/26/2022,NA,NA,netflix.com ,NA,-39.9,NA,cartao_brasdesco,netflix.com  || NA,TV Internet Telefone || n,n,,,,
+119,7/26/2022,62dfcb47-2085-4d67-937d-8495ed405ff0,NA,compra no débito - auttar loja,NA,-4.4,NA,conta_nubank_pf,compra no débito - auttar loja || NA,Outros || n,n,,,,
+120,7/26/2022,62e071e0-bf68-494d-934a-ce9dbcc6bbcf,NA,compra no débito - auttar loja,NA,-4.4,NA,conta_nubank_pf,compra no débito - auttar loja || NA,Outros || n,n,,,,
+121,7/27/2022,NA,NA,cobasi sumare s 1/2 1/2,NA,-169.42,NA,cartao_brasdesco,cobasi sumare s 1/2 1/2 || NA,Pet || n,n,,,,
+122,7/27/2022,NA,NA,ec*eviparticipacoesltd ,NA,107.53,NA,cartao_brasdesco,ec*eviparticipacoesltd  || NA,Roupas vestuario || n,n,,,,
+123,7/27/2022,62e189c4-91c5-4c89-9544-af3b6909c093,NA,transferência enviada pelo pix - evi participacoes ltda - 37.669.661/0001-14 - mercado pago ip ltda. (0323) agência: 1 conta: 7415185260-5,NA,-109.9,NA,conta_nubank_pf,transferência enviada pelo pix - evi participacoes ltda - 37.669.661/0001-14 - mercado pago ip ltda. (0323) agência: 1 conta: 7415185260-5 || NA,Roupas vestuario || n,n,,,,
+124,7/28/2022,NA,NA,pao de acucar.com   54 ,NA,-83.3,NA,cartao_brasdesco,pao de acucar.com   54  || NA,Compras/supermercado || s,s,83.3,Alimentos,Supermercado,28
+125,7/28/2022,NA,NA,uber   *uber   *trip ,NA,-19.92,NA,cartao_brasdesco,uber   *uber   *trip  || NA,Transporte || n,n,,,,
+126,7/28/2022,55,22, pagto cobranca,crea,-2632.5,-2619.82,conta_bradesco, pagto cobranca || crea,imposto divida taxas/Outros || n,n,,,,
+127,7/29/2022,NA,NA,uber *trip help.uber.com ,NA,-28.99,NA,cartao_brasdesco,uber *trip help.uber.com  || NA,Transporte || n,n,,,,
+128,7/29/2022,NA,NA,uber   *uber   *trip ,NA,-18.94,NA,cartao_brasdesco,uber   *uber   *trip  || NA,Transporte || n,n,,,,
+129,7/29/2022,62e3c91a-b65d-4f0a-8e1d-5d62ed64f69a,NA,transferência recebida - danilo brito steckelberg - 030.831.221-01 - easynvest - título corretora de valores sa (0140) agência: 1 conta: 165752-9,NA,1400,NA,conta_nubank_pf,transferência recebida - danilo brito steckelberg - 030.831.221-01 - easynvest - título corretora de valores sa (0140) agência: 1 conta: 165752-9 || NA,Auto transferencia || n,n,,,,
+130,7/30/2022,NA,NA,pao de acucar com ,NA,-154.5,NA,cartao_brasdesco,pao de acucar com  || NA,Compras/supermercado || s,s,154.5,Alimentos,Supermercado,30
+131,7/30/2022,62e5b826-8108-4213-bc41-0e0172344fa6,NA,transferência enviada pelo pix - assoc i n sociodiversidade - 29.313.709/0001-29 - itaú unibanco s.a. (0341) agência: 5782 conta: 4185-8,NA,-95,NA,conta_nubank_pf,transferência enviada pelo pix - assoc i n sociodiversidade - 29.313.709/0001-29 - itaú unibanco s.a. (0341) agência: 5782 conta: 4185-8 || NA,Viagem || s,s,95,Viagem,Comida+bebida tropixel,30
+132,7/30/2022,62e5c781-c7f7-478f-96b3-edf685767dae,NA,transferência enviada pelo pix - assoc i n sociodiversidade - 29.313.709/0001-29 - itaú unibanco s.a. (0341) agência: 5782 conta: 4185-8,NA,-23,NA,conta_nubank_pf,transferência enviada pelo pix - assoc i n sociodiversidade - 29.313.709/0001-29 - itaú unibanco s.a. (0341) agência: 5782 conta: 4185-8 || NA,Viagem || s,s,23,Viagem,Comida+bebida tropixel,30
+133,7/31/2022,NA,NA,turbi ,NA,-30.88,NA,cartao_brasdesco,turbi  || NA,Transporte || n,n,,,,
+134,7/31/2022,NA,NA,uber   *uber   *trip ,NA,-16.9,NA,cartao_brasdesco,uber   *uber   *trip  || NA,Transporte || n,n,,,,
+135,7/31/2022,62e6c297-1878-43bd-b4c9-4238ad613786,NA,compra no débito - posto veraneio,NA,-164.36,NA,conta_nubank_pf,compra no débito - posto veraneio || NA,Viagem || s,s,164.36,Viagem,Combustível,31
+136,7/31/2022,supermercado ubatuba,NA,viagem,NA,-35.9,NA,cartao_flash,viagem || NA,Viagem || s,s,35.9,Viagem,Supermercado,31

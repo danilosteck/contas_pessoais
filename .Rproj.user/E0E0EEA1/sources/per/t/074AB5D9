@@ -1,0 +1,27 @@
+{
+    "id": "074AB5D9",
+    "path": "~/Documents/MEGAsync/Pessoal/Contabilidade/contas_pessoais/pegar_extratos_bradesco.R",
+    "project_path": "pegar_extratos_bradesco.R",
+    "type": "r_source",
+    "hash": "2028204732",
+    "contents": "",
+    "dirty": false,
+    "created": 1657395978117.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "32,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1670100496,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1670100496028,
+    "read_only": false,
+    "read_only_alternatives": []
+}
